@@ -8,5 +8,5 @@ def send_feedback_email(feedback):
          "Este é um e-mail automático gerado pela nossa aplicação Django. \n"
          "Isso significa que alguém enviou um feedback. \n"
          "--------------------------------------------------------\n"
-         f"Dados: {feedback} \n"), "codekraftofficial@gmail.com",
-        ["codekraftofficial@gmail.com"], False)
+         f"Dados: {feedback} \n"), "fernandes.yuri.ironhide@gmail.com",
+        ["fernandes.yuri.ironhide@gmail.com"], False)
